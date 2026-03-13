@@ -60,7 +60,7 @@ The system includes the following main tables:
 
 Provides an overview of the hotel and available services.
 
-![About Page](images/about-page.jpeg)
+![Home Page](images/home.jpeg)
 
 ---
 
@@ -85,7 +85,11 @@ Displays confirmation after successful reservation.
 ![Booking Confirmation](images/booking-confirmation.jpeg)
 
 ---
+### About Page
 
+Allows user to know more about the hotel.
+
+![About Page](images/about-page.jpeg)
 ### Contact Page
 
 Allows users to contact the hotel for inquiries.
