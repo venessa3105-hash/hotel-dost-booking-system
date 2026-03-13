@@ -60,7 +60,7 @@ The system includes the following main tables:
 
 Provides an overview of the hotel and available services.
 
-![Home Page](images/home.jpeg)
+![Home Page](images/home.png)
 
 ---
 
